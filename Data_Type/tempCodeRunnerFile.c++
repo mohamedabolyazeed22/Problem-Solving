@@ -1,0 +1,1 @@
+   // Check if result matches third number and print output
