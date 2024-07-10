@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 20,
+      "grades": {
+        "math": 85,
+        "science": 90,
+        "literature": 88
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 22,
+      "grades": {
+        "math": 78,
+        "science": 85,
+        "literature": 92
+      }
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "age": 21,
+      "grades": {
+        "math": 92,
+        "science": 89,
+        "literature": 94
+      }
+    }
+  ]
+}
